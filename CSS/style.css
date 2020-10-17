@@ -62,3 +62,19 @@ button {
     margin-top: 400px;
     margin-left: 600px;
 }
+.stiles p {
+    text-align: center;
+    font-size: 18px;
+    color: white;
+}
+.stiles{
+    background-image: url("../images/marcus-lenk-qPVkWr7Hk-Y-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50vh;
+    width:1500px vh ;
+}
+h2{
+    color: white;
+    text-align: center;
+}
