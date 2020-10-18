@@ -48,6 +48,7 @@ h1 {
     background-size:cover;
     height:110vh;
     width:1500px vh;
+    background-attachment: unset;
 }
 p{  
     
@@ -109,3 +110,32 @@ p1{
     padding-top: 30px;
     padding-bottom: 50px;
 }
+.order{
+    background-image: url("../images/wesual-click-jkC1ul95ujQ-unsplash.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width:2000px vh ;
+}
+#row1{
+    color:white;
+    font-weight: bold;
+    font-size: 20px;
+    background-color:black;
+  }
+  h4{
+    color:white;
+    text-align: center;
+    font-weight: bold;
+}
+.choice{
+    display: none;
+    padding-left: 2%;
+    padding-right: 2%;
+  }
+  #submit{
+      margin-left: 25%;
+      background-color: rgb(41, 146, 194);
+      margin-top: 25px;
+  }
+  
