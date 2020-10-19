@@ -179,3 +179,47 @@ p1{
     color:white;
 
 }
+#contact p6{
+    font-size: 20px;
+    text-align: center;
+    color: black;
+    font-family: sans-serif;
+}
+
+#contact h5{
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    text-align: center;
+    color:black;
+}
+
+#contact{
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 30px;
+    margin-left: 80px;
+}
+#contacts>ul>li{
+    display:inline-block;
+    padding-left:50px ;
+    margin-top:-60px;
+    margin-left: 100px;
+}
+footer{
+    background-color:orange;
+    width: 2000px;
+    height:150px;
+}
+footer h7{
+    color:white;
+    font-weight: bold;
+    font-size: 20px;
+}
+.lid{
+    padding-top:42px;
+}
+.cont{
+    font-size:12px;
+}
