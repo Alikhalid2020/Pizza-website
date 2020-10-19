@@ -60,7 +60,7 @@ p{
     text-transform: uppercase;
     
 }
-button {
+ #MEN{
     margin-top: 350px;
     margin-left: 600px;
 }
@@ -129,13 +129,53 @@ p1{
     font-weight: bold;
 }
 .choice{
-    display: none;
+    align-items: center;
     padding-left: 2%;
     padding-right: 2%;
-  }
+  } 
   #submit{
       margin-left: 25%;
       background-color: rgb(41, 146, 194);
       margin-top: 25px;
   }
-  
+  #row{
+      background-color: black;
+      color: white;
+  }
+  .total-amount, .delivery-cost {
+    font-weight: bold;
+    font-size: 1.6em;
+  }
+.hidden {
+    display: none;
+}
+.checkout-options, .location {
+    z-index: 3;
+    border-radius: 15px;
+    padding: 20px;
+    width: 40%;
+    height: 60vh;
+    background: black;
+    position: relative;
+    top: 100%;
+    left: 65%;
+    transform: translate(-50%, -50%);
+}
+.table{
+    background: black;
+}
+#forms{
+    background-color:wheat;
+}
+.d-flex{
+    background-color: black;
+    color: aliceblue;
+}
+.fed{
+    color:white;
+}
+#pizza-form{
+    background-color:black;
+    color:white;
+
+}
